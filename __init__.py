@@ -1,2 +1,1 @@
-def rex(str):
-    print('you are success')
+# just for creat
